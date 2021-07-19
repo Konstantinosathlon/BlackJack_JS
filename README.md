@@ -1,4 +1,4 @@
-## General Info
+## General info
 
 A simple Blackjack game created with pure JavaScript.
 
@@ -10,7 +10,7 @@ A simple Blackjack game created with pure JavaScript.
 * There is phase One with Two cards per player. The player decides what to do, hit or stand.
 * Only one card of the Dealer is visible in phase One. Then in the end, his Hand is revealed.
 
-## Screenshot
+#### Screenshot
 
 ![image](https://github.com/Konstantinosathlon/BlackJack_JS/blob/master/screenshots/16.07.2021_23.37.17_REC.png)
 
